@@ -4,6 +4,7 @@ https://devbytes.blog
 
 ## Articles
 
+- [Introduction to OpenAI API and How to Use It in Node.js](https://devbytes.blog/articles/introduction-to-openai-api-in-nodejs)
 - [The Importance of Writing Unit Tests and E2E Tests in Node.js Projects](https://devbytes.blog/importance-of-writing-unit-tests-and-e2e-tests-in-nodejs)
 - [Microservices vs. Monolithic Applications - Choosing the Right Architecture for Your Project](https://devbytes.blog/microservices-vs-monolithic-applications)
 - [Sending Emails with Nodemailer in Node.js](https://devbytes.blog/nodejs-tutorial-sending-emails-with-nodemailer)
